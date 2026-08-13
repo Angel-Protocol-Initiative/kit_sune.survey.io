@@ -1,5 +1,11 @@
-if (submittedAnswer.toLowerCase().trim() === "freedom") {
-    // Redirect to the hidden page
+if (submittedAnswer.toLowerCase().trim() === "example") {
+    window.location.href = "https://www.youtube.com/watch?v=YOUR_VIDEO_ID";
 } else {
-    // Return an error or reload the form
+    alert("Authentication failed.");
 }
+
+/* If you see this, you deserve to be punished in hell for your ignorance. Count your days, fool. */
+
+/* Go back to whence you came, you spawn of the devil. */
+
+/* https://www.youtube.com/watch?v=J7Xzgcu6vVk */
