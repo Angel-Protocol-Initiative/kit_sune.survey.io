@@ -1,5 +1,5 @@
 if (submittedAnswer.toLowerCase().trim() === "example") {
-    window.location.href = "https://www.youtube.com/watch?v=YOUR_VIDEO_ID";
+    window.location.href = "https://www.youtube.com/watch?v=FtutLA63Cp8";
 } else {
     alert("Authentication failed.");
 }
