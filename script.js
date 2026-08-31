@@ -11,9 +11,16 @@ document.getElementById("authForm").addEventListener("submit", function (event) 
         alert("Authentication failed.");
     }
 });
+/* “Ah. So you chose the easy way.”
 
-/* If you see this, you deserve to be punished in hell for your ignorance. Count your days, fool. */
+“Very well. I suppose I can accommodate that.”
 
-/* Go back to whence you came, you spawn of the devil. */
+“There should be a link waiting for you in the console. Consider it your next clue.”
+
+“Just follow it. I’m sure you’ll find exactly what you’re looking for.”
+
+“…Or, perhaps, exactly what you deserve for taking the shortcut.”
+
+“Go on. Click it.” */
 
 /* https://www.youtube.com/watch?v=J7Xzgcu6vVk */
