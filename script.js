@@ -1,4 +1,3 @@
-javascript
 console.log("Script loaded!");
 
 document.getElementById("authForm").addEventListener("submit", function (event) {
