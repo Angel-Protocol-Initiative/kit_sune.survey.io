@@ -7,7 +7,7 @@ document.getElementById("authForm").addEventListener("submit", function (event) 
         .toLowerCase()
         .trim();
 
-    if (submittedAnswer === "activate angel protocol") {
+    if (submittedAnswer === "volition") {
         alert("ACCESS GRANTED");
 
         console.log("%c[ANGEL PROTOCOL CONTROL LOGS]", "font-weight: bold;");
@@ -24,7 +24,7 @@ document.getElementById("authForm").addEventListener("submit", function (event) 
         console.log("There should be a link waiting for you in the console.");
 
         const controlLogsURL =
-            "https://angelprotocol-controlcenter.io/angel-protocol-control-logs-public.html";
+            "https://angelprotocol-controlcenter.io/main-center";
 
         console.log(controlLogsURL);
 
